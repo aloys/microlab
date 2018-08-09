@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/microservice-lab.iml" filepath="$PROJECT_DIR$/microservice-lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/random-service/random-server.iml" filepath="$PROJECT_DIR$/random-service/random-server.iml" />
     </modules>
   </component>
 </project>
