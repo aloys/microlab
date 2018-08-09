@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/random-service/random-server.iml" filepath="$PROJECT_DIR$/random-service/random-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/time-service/timestamp-server.iml" filepath="$PROJECT_DIR$/time-service/timestamp-server.iml" />
     </modules>
   </component>
 </project>
